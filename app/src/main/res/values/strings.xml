@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Quizler</string>
+    <string name="playBtn">PLAY</string>
+    <string name="beginBtn">BEGIN</string>
+    <string name="nameHint">Enter your name</string>
+    <string name="nameQuestion">Whos playing this round?</string>
+    <string name="playAgainBtn">RETRY</string>
+    <string name="scoreLbl">SCORE:</string>
+</resources>
